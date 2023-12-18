@@ -1,0 +1,22 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CameraControl">
+			<method name="CameraOne"/>
+			<method name="CameraOne"/>
+			<method name="CameraTwo"/>
+			<method name="CameraTwo"/>
+		</type>
+		<type fullname="Menu">
+			<method name="Play"/>
+			<method name="Quit"/>
+		</type>
+		<type fullname="Movement">
+			<method name="Parachute"/>
+			<method name="Parachute"/>
+		</type>
+		<type fullname="Results">
+			<method name="Return"/>
+			<method name="Return"/>
+		</type>
+	</assembly>
+</linker>
